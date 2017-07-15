@@ -76,3 +76,5 @@ https://dzone.com/refcardz/continuous-integration
 * [5 Best Practices in Continuous Integration](http://www.cigniti.com/blog/continuous-integration-5-best-practices-best-tools-benefits/)
 
 https://dzone.com/refcardz/continuous-integration
+http://blogs.collab.net/devopsci/ten-best-practices-for-continuous-integration#.WWoXiIjytPY
+
