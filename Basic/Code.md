@@ -1,3 +1,13 @@
+
+
+
+# Local vs Centralized vs Distributed 
+Local version control is managed through saving patch sets of differences in files on a single node local to where the files are stored.
+Centralized version control is managed through a single remote server containing all versioned files. Clients check out files from this centralized location. 
+Distributed version control is managed through entire repositories being replicated across different nodes.
+
+
+
 # Revision control system / source code management 
 
 The revision control system is heart of the development environment.
@@ -93,8 +103,25 @@ Release management
 
  
  
- 
- 
+# Artifact Management 
+An artifact is the output of any step in the software development process. Depending on the language, artifacts can be a number of things from jars, wars, libraries, assets, to applications. 
+
+An artifact repository should be • secure • trusted • stable • accessible • versioned 
+
+ # Recognize Common Artifact Types 
+Linux -  rpm,deb
+Java - JAR, WAR
+Ruby - gem
+Windows - exe, DLLs
+General - tarball,zip files
+
+
+
+# Audit Code
+
+Before putting external code into production, make sure that you have a process in place to audit and verify third party packages are not vulnerable. Relying on third party packages? Ask for information about what steps they have in place to generate secure code, and store their binaries. Companies that care about the quality of their code will provide you this information.
+
+
  
  
  
