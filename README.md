@@ -389,7 +389,7 @@ https://dzone.com/articles/embedding-ownership-a-devops-best-practice
 Business impact analysis now provided with each detected problem
 https://www.dynatrace.com/blog/business-impact-analysis-now-provided-detected-problem/
 
-
+https://github.com/ciandcd/awesome-ciandcd
 
 Starting and Scaling DevOps in the Enterprise: Optimizing The Basic Deployment Pipeline 
 https://dzone.com/articles/starting-and-scaling-devops-in-the-enterprise-opti
