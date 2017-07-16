@@ -38,6 +38,10 @@ https://courses.cs.washington.edu/courses/cse403/12wi/sections/12wi_code_review_
 https://www.liberty.edu/media/1414/%5B6401%5Dcode_review_checklist.pdf
 https://wiki.openmrs.org/display/docs/Code+Review+Checklist
 
+# Tools
+http://www.codebrag.com/
+https://www.reviewboard.org/
+
 https://github.com/mestachs/experiment/blob/master/codereview/checklist.md
 
 https://ana-balica.github.io/2017/02/21/code-review-checklist/
