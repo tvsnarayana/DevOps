@@ -59,6 +59,20 @@ Review Assistant - Code Review Tool
 https://marketplace.visualstudio.com/items?itemName=DevartSoftware.ReviewAssistant-CodeReviewTool
 
 
+
+https://github.com/eroispaziali/force-code-review-checklists
+https://github.com/rjz/code-review-checklist
+
+https://rubygarage.org/blog/code-review-tips
+
+https://www.linkedin.com/pulse/code-review-checklist-ebenezar-p
+
+https://blog.mavenhive.in/code-review-checklist-1415c69dbe45
+
+http://www.c-sharpcorner.com/UploadFile/354d49/top-10-C-Sharp-guidelines-and-code-reviews-checklist-for-develope/
+
+https://www.owasp.org/images/2/2e/OWASP_Code_Review_Guide-V1_1.pdf
+
 https://www.intertech.com/Downloads/WhitePapers/Intertech-Design-and-Code-Review-Checklist.pdf
 https://weblogs.asp.net/tgraham/44763
 https://cwiki.apache.org/confluence/display/AVRO/Code+Review+Checklist
