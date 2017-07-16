@@ -57,3 +57,14 @@ https://www.visualstudio.com/en-us/docs/tfvc/get-code-reviewed-vs
 
 Review Assistant - Code Review Tool
 https://marketplace.visualstudio.com/items?itemName=DevartSoftware.ReviewAssistant-CodeReviewTool
+
+
+https://www.intertech.com/Downloads/WhitePapers/Intertech-Design-and-Code-Review-Checklist.pdf
+https://weblogs.asp.net/tgraham/44763
+https://cwiki.apache.org/confluence/display/AVRO/Code+Review+Checklist
+http://www.qamentor.com/wisdom-center/sample-deliverables-showcase/code-review-checklist/
+http://docs.motechproject.org/en/latest/development/code_review.html
+
+AngularJS 1.x Code Review Checklist
+https://angularcodereview.com/angularjs/
+
