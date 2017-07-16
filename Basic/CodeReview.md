@@ -60,6 +60,18 @@ https://marketplace.visualstudio.com/items?itemName=DevartSoftware.ReviewAssista
 
 
 
+https://www.java-success.com/30-java-code-review-checklist-items/
+http://knowledgehandshake.com/2016/12/06/important-code-review-checklist/
+https://www.red-gate.com/simple-talk/dotnet/net-framework/the-zen-of-code-reviews-review-as-if-you-own-the-code/
+https://adam.younglogic.com/2010/01/code-review-checklist/
+https://www.mssqltips.com/sqlservertip/1303/sql-server-code-review-checklist/
+http://www.fromdev.com/2015/02/code-review-checklist.html
+
+http://intersog.com/blog/code-review-checklist/
+
+
+
+
 https://github.com/eroispaziali/force-code-review-checklists
 https://github.com/rjz/code-review-checklist
 
