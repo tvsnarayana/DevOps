@@ -3,6 +3,27 @@ http://www.bestdevops.com/how-to-deploy-java-apps-with-docker/
 http://www.bestdevops.com/exception-handling-a-best-practice-guide/
 
 
+Bristol DevOps - WTF is Sensu - A DevOps guide to monitoring
+https://www.youtube.com/watch?v=7eP8BiJZ36Y
+
+Puppet + Sensu = Infrastructure as Code & monitoring, sharing the same development workflow
+https://www.youtube.com/watch?v=KAAhwzTuhYU
+
+
+http://www.testautomationguru.com/best-practices-jmeter-performance-testing-in-continuous-delivery-pipeline/
+
+
+“Testing Infra as Code” - Infrastructure CI with Jenkins and Puppet
+https://www.youtube.com/watch?v=GGG5AE4-bBQ
+
+
+http://www.tothenew.com/blog/continuous-delivery-best-practices/
+
+http://msystechnologies.com/best-practices-for-a-mature-continuous-delivery-pipeline/
+
+https://success.docker.com/Architecture/Docker_Reference_Architecture%3A_Development_Pipeline_Best_Practices_Using_Docker_EE
+
+
 http://www.bestdevops.com/3-git-hooks-for-continuous-integration/
 http://www.bestdevops.com/13-benefits-you-will-get-by-using-test-driven-development/
 
