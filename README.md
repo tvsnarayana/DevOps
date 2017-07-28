@@ -187,6 +187,97 @@ Here is another attempt to the maturity model that picks the best pieces from ea
 ![1](http://blog.arungupta.me/wp-content/uploads/2015/02/continuous-delivery-maturity-model-v1.0-1024x734.png)
 
 
+https://image.slidesharecdn.com/jenkins2-150728163959-lva1-app6892/95/continuous-integration-with-jenkins-and-git-7-638.jpg?cb=1438101733
+https://www.xenonstack.com/images/DevOps.png
+
+
+Our DevOps Professional Services include:
+* Single Click Deployments
+* Continuous Integration and Continuous Deployment
+* Proper Infrastructure Security
+* Automated Rollouts & Rollbacks
+* Automated Security Alerts
+* Supports Microservices & Serverless Computing - Docker and Kubernetes
+* Easy Code Management & Code Reviews
+* Deploy On-Premises, Public or Hybrid Cloud
+
+https://www.xenonstack.com/images/devops-tools.png
+https://www.xenonstack.com/blog/static/public/uploads/media/nexastack-the-ultimate-devops-platform.png
+
+
+1. Source Code Management (SCM) System
+  * GitHub 
+2. Build and Continuous Integration(CI)
+Reduce Integration Issues
+Improve Code Quality
+Improve Communication and Collaboration between Team Members
+Faster Releases
+Less Bugs
+3. Building tools
+
+4. Testing
+JUnit: JUnit is a simple framework to write repeatable tests.
+Mocha: Mocha is a simple, flexible, fun JavaScript test framework for Node.js.
+5. Artifacts Management
+
+6. Configuration Management
+Ansible, Chef and Puppet
+
+7. Deployment
+
+8. Orchestration
+Software systems that facilitate the automated management, scaling, discovery, and/or deployment of container-based applications or workloads.
+
+* Kubernetes: Kubernetes is an orchestration system for Docker containers. It handles scheduling and manages workloads based on user-defined parameters.
+* Docker Swarm: Docker Swarm provides native clustering functionality for Docker containers, which lets you turn a group of Docker engines into a single, virtual Docker engine.
+
+9. Monitoring
+ 
+
+The end goal for your monitoring is to consolidate tools, reduce the total cost of ownership, and automate the configuration via machine learning.
+
+10. Collaboration & Notification
+Rocket Chat: Rocket Chat is an open-source messaging app built with Meteor. It supports video conferencing, file sharing, voice messages, has a fully-featured API, and more. Rocket Chat is great for those who prefer to have full control over their communications.
+Slack: Slack is basically a messaging app on steroids. It's meant for teams and workplaces can be used across multiple devices and platforms, and is equipped with robust features that allow you to not only chat one-on-one with associates but also in groups. You're able to upload and share files with them too, as well as integrate with other apps and services, such as Skype for video calls, and you can granularly control almost every setting, including the ability to create custom emoji.
+
+
+11. Bug Management System
+Bugs - Whether they be in the code or in the usability of the program, can be debilitating to any project, potentially causing the entire initiative to fail. 
+
+12. Collaborative Documentation System
+It includes:
+Wiki basics
+Using Media Wiki, Confluence etc.
+Documenting DevOps Projects.
+Organizing Documents on a Wiki-Based System for the past DevOps Projects.
+
+
+13. Security
+ 
+
+
+Artifacts Management
+ 
+
+Now that your build pipeline consistently versions your Maven project, you need a place to store your artifacts which are being produced at the end of this pipeline. These artifacts need to be stored much the same way your source code is stored in your SCM.
+
+ 
+
+This ensures access to previously released versions of your product. An Artifact Repository is designed to store your war/jar/ear/etc, and distribute it to fellow developers via Maven, Ivy, or the like, share your artifact with you deployment tools, and generally ensure an immutable history of your released products.
+
+ 
+
+Using a Standard Artifacts Management System such as Artifactory
+
+Caching Third-Party Tools
+
+
+https://www.xenonstack.com/blog/static/public/uploads/featured/Data-Ingestion-Using-Apache-Nifi-For-Building-Data-Lakes-Twitter-Data.jpg
+
+https://image.slidesharecdn.com/devopsonaws-acceleratingsoftwaredelivery-awssummitsg2017-170428085530/95/dev-ops-on-aws-accelerating-software-delivery-awssummit-sg-2017-10-638.jpg?cb=1493369876
+
+http://linoxide.com/images/devops-tools-cheatsheet-infographics-700x900.png
+https://cdn2.hubspot.net/hubfs/208250/social-suggested-images/DevOps-Infographic-v1.4%20690x690-1.png
 
 
 
