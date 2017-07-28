@@ -9,7 +9,7 @@ There are lots of tools of technologies comes under DevOPS Practice. But majorly
 * Configure — Infrastructure configuration and management, Infrastructure–as–Code tools.
 * Monitor — Applications performance monitoring, end–user experience.
 
-
+# DevOps Tools
 * **CI Framework** - Jenkins, Bamboo, Hudson, TeamCity
 * **Build automation** - Maven, Gradle, Ant
 * **Deploy** - CircleCi
