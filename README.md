@@ -9,6 +9,27 @@ There are lots of tools of technologies comes under DevOPS Practice. But majorly
 * Configure — Infrastructure configuration and management, Infrastructure–as–Code tools.
 * Monitor — Applications performance monitoring, end–user experience.
 
+
+* **CI Framework** - Jenkins, Bamboo, Hudson, TeamCity
+* **Build automation** - Maven, Gradle, Ant
+* **Deploy** - CircleCi
+* **Issue and project tracking** - JIRA, CA Agile Central, Team Foundation Server, HPE Agile Manager
+* **Continuous delivery** - Chef, Puppet
+* **Test Management** - QMetry Test Manager, HPE Quality Center Enterprise, ApTest
+* **Test Automation** - QMetry Automation Studio, Selenium, Appium
+* **Repository management** - Artifactory, Docker
+* **Code coverage** - JaCoCo, Atlassian Clover, SonarQube, Cobertura
+* **Behavior Driven Development** - jbehave, Cucumber
+* **Application performance monitoring** - AppDynamics
+* **Application security testing** - HPE Fortify
+* **Cloud management** - Open Stack
+* **Mobile Device clouds** - Perfecto, Sauce Labs
+* **Monitoring** - Dynatrace, Nagios, Monit
+* **Version control** -  Git
+* **Config** - Consul.io
+* **Feature Flags & Lifecycle Management** - LaunchDarkly
+
+
 DevOps: A Cultural Change for the Win
 https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/09/1474959371devops.png
 
