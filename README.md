@@ -510,6 +510,7 @@ https://dzone.com/articles/starting-and-scaling-devops-in-the-enterprise-opti
 A/B Testing and Web Performance 
 https://dzone.com/articles/ab-testing-and-web-performance
 
+![1](https://cdn.edureka.co/blog/wp-content/uploads/2016/10/2-DevOps-tools.png)
 ![1](https://msdnshared.blob.core.windows.net/media/2016/06/image_thumb665.png)
 ![1](https://msdnshared.blob.core.windows.net/media/2016/06/image_thumb666.png)
 ![1](https://msdnshared.blob.core.windows.net/media/2016/06/image_thumb667.png)
