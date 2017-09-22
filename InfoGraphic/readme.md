@@ -1,2 +1,8 @@
 ![1](https://github.com/ramyrams/DevOps/blob/master/InfoGraphic/DevOpsP.png)
 ![1](https://github.com/ramyrams/DevOps/blob/master/InfoGraphic/ADOPTFramework.png)
+![1](https://images.techhive.com/images/article/2015/01/01-01ss-devops-tools-100539589-gallery.idge.jpg)
+![1](https://www.agiletestingframework.com/wp-content/uploads/what-the-agile-practitioners-actually-saw.png)
+![1](https://www.agiletestingframework.com/wp-content/uploads/agile-attempts-to-break-the-silos.png)
+![1](https://www.agiletestingframework.com/wp-content/uploads/agile-what-really-happens-1.png)
+![1](https://www.agiletestingframework.com/wp-content/uploads/agile-attempts-to-fix-it.png)
+![1](https://www.agiletestingframework.com/wp-content/uploads/why-the-attempts-fail.png)
