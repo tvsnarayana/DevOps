@@ -1,5 +1,6 @@
 
 ### Rams Infograpics 
+![1](http://www.testhouse.net/wp-content/uploads/2016/08/MRDevOpsPractices2.jpg)
 ![VMs VS Containers](http://www.jayway.com/wp-content/uploads/2015/03/vm-vs-docker.png)
 ![VMs VS Containers](http://www.jayway.com/wp-content/uploads/2015/03/vm-vs-docker-table.png)
 ![Containers](http://www.jayway.com/wp-content/uploads/2015/03/docker-image.png)
