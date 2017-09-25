@@ -8,3 +8,4 @@
 ![1](https://www.agiletestingframework.com/wp-content/uploads/why-the-attempts-fail.png)
 ![1](https://github.com/ramyrams/DevOps/blob/master/InfoGraphic/DevOpsTools.png)
 ![1](https://www.voxxed.com/wp-content/uploads/2017/01/1.-jenkins-overview.jpg)
+![1](http://isoftwarearchitect.com/wp-content/uploads/2017/03/VS2017-DevOps.png)
