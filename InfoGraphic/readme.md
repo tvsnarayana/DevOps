@@ -6,3 +6,4 @@
 ![1](https://www.agiletestingframework.com/wp-content/uploads/agile-what-really-happens-1.png)
 ![1](https://www.agiletestingframework.com/wp-content/uploads/agile-attempts-to-fix-it.png)
 ![1](https://www.agiletestingframework.com/wp-content/uploads/why-the-attempts-fail.png)
+![1](https://github.com/ramyrams/DevOps/blob/master/InfoGraphic/DevOpsTools.png)
