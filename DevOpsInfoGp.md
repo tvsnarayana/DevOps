@@ -1,5 +1,8 @@
 
 ### Rams Infograpics 
+https://mobisoftinfotech.com/assets/images/devops/devopd_img.png
+https://mobisoftinfotech.com/assets/images/devops/web_performance_matters.png
+
 https://images.techhive.com/images/article/2015/01/01-01ss-devops-tools-100539589-gallery.idge.jpg
 ![1](http://www.testhouse.net/wp-content/uploads/2016/08/MRDevOpsFrame1.jpg)
 ![1](http://www.testhouse.net/wp-content/uploads/2016/08/MRDevOpsPractices2.jpg)
