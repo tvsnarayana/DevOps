@@ -45,3 +45,13 @@ Many build tools have the concept of a build tree where dependencies are built i
 
 
 ## Collating quality measures 
+
+
+https://blog.axosoft.com/gitflow/
+https://www.atlassian.com/git/tutorials/comparing-workflows
+https://danielkummer.github.io/git-flow-cheatsheet/
+https://datasift.github.io/gitflow/IntroducingGitFlow.html
+http://nvie.com/posts/a-successful-git-branching-model/
+https://datasift.github.io/gitflow/IntroducingGitFlow.html
+
+https://www.git-tower.com/learn/git/ebook/en/desktop-gui/advanced-topics/git-flow
