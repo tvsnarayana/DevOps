@@ -13,3 +13,16 @@
 11. Acquire and deploy a tool that will give you hints about structural issues in your code: dependency analysis.
 12. Develop an approach for systematic regression testing, so that fixing technical debt items does not run you in the risk of breaking the code. (Counter the “It is not really broken, so I won’t fix it.”)
 13. If you are actively managing risks, consider bringing some major tech debt items in your list of risks.
+
+
+https://philippe.kruchten.com/
+
+https://blog.jixee.me/wp-content/uploads/2015/06/technical-debt.jpg
+
+https://www.slideshare.net/zazworka/identifying-and-managing-technical-debt
+
+https://www.slideshare.net/lemiorhan/technical-debt-do-not-underestimate-the-danger
+
+https://www.slideshare.net/intechnica/technical-debt-101
+https://www.slideshare.net/ScottWAmbler/crushed-by-technical-debt
+https://www.slideshare.net/RedgateSoftware/measuring-technical-debt
