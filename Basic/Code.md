@@ -1,5 +1,5 @@
-
-
+https://www.packtpub.com/graphics/9781786464859/graphics/B05559_03_02.jpg
+https://www.packtpub.com/graphics/9781786464859/graphics/B05559_03_02.jpg
 
 # Local vs Centralized vs Distributed 
 Local version control is managed through saving patch sets of differences in files on a single node local to where the files are stored.
