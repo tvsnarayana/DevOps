@@ -523,7 +523,8 @@ https://dzone.com/articles/ab-testing-and-web-performance
 ![1](http://68.media.tumblr.com/fd4468c702022048ee4ac76151723e03/tumblr_onlv4oW7NI1rswam8o1_1280.png)
 ![1](http://68.media.tumblr.com/06e8ecc5a5fe04347f31ff376965587d/tumblr_onlv4oW7NI1rswam8o2_1280.png)
 ![1](http://68.media.tumblr.com/dfe46f3c96f07754b624e98a8e470897/tumblr_onlv4oW7NI1rswam8o3_r1_1280.png)
-
+#Building an integrated Agile/DevOps Maturity Model showing how to progress
+![1](http://community.hpe.com/legacyfs/online/47878i6F442CC85F4E1B73/image-size/original?v=mpbl-1&px=-1%22)
 
 ![1](https://msdnshared.blob.core.windows.net/media/2016/11/SNAGHTMLb41cf97.png)
 ![1](http://bitbar.com/wp-content/uploads/2015/01/Screen-Shot-2016-10-03-at-11.04.33-PM.png)
