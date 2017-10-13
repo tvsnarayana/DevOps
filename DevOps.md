@@ -193,5 +193,5 @@ https://dzone.com/articles/why-continuous-delivery-is-key-for-developer-caree
 Starting and Scaling DevOps in the Enterprise: The Basic Deployment Pipeline 
 https://dzone.com/articles/starting-and-scaling-devops-in-the-enterprise-the
 https://devops.com/get-devops-right-standout-technologies/
-
+https://www.atlassian.com/blog/devops/how-to-choose-devops-tools
 https://dzone.com/articles/what-to-know-about-the-devops-journey-of-your-orga?
