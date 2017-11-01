@@ -13,3 +13,5 @@ https://cdn2.hubspot.net/hubfs/1958393/White_Papers/devsecops_how_to_seamlessly_
 
 https://2017.appsec.eu/presos/DevSecOps/An%20SDLC%20for%20the%20DevSecOps%20Era%20-%20Zane%20Lackey%20-%20OWASP_AppSec-Eu_2017.pdf
 https://shawnwells.io/wp-content/uploads/2017-02-21-AFCEA-West-DevOps.pdf
+
+https://s3-eu-west-1.amazonaws.com/sqreen-assets/whitepapers/Cheat-Sheet-SecDevOps-Integrating-Security-At-Devops-Speed.pdf
