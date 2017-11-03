@@ -527,7 +527,7 @@ https://dzone.com/articles/ab-testing-and-web-performance
 
 
 ![1](https://www.srijan.net/sites/default/files/inline-images/DevOp-Processes.jpg)
-
+![1](http://softcrylic.com/wp-content/uploads/2017/03/infographics-continuous-testing.jpg)
 ![1](https://cdn.edureka.co/blog/wp-content/uploads/2016/10/2-DevOps-tools.png)
 ![1](https://msdnshared.blob.core.windows.net/media/2016/06/image_thumb665.png)
 ![1](https://msdnshared.blob.core.windows.net/media/2016/06/image_thumb666.png)
