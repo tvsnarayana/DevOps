@@ -1,3 +1,51 @@
+https://www.nexiilabs.com/img/devops/devops-tools.jpg
+https://msystechnologies.com/wp-content/uploads/2016/10/devops-1.png
+
+http://d9hhrg4mnvzow.cloudfront.net/services.tothenew.com/devops-services/ec47cce1-code-version.jpg
+http://www.happiestminds.com/wp-content/themes/hmtheme/images/devops_img.jpg
+
+
+#DEVOPS OFFERINGS
+## Infrastructure Management
+DevOps is a collaborative way of developing and deploying software. Our DevOps solutions help organizations to align with the goals, rapidly and reliably, producing high-quality software-based products and services. Therefore, automation is a critical element of DevOps. Our offerings include:
+* Automated provisioning
+* Scaling up of servers within minutes
+* Elimination of server state mismatch
+* Bringing up servers in deploy real state
+![1](http://www.happiestminds.com/wp-content/uploads/2015/11/Screenshot_12.jpg)
+
+##EnvironmentManagment
+Our configuration management services help  manage your code, automate your platforms and make your server and services ready for your consumers. Our offerings are:
+* Elimination of configuration mismatch
+* Automated, error-free, faster configuration deployment
+* Single tool management for all environments
+* Configuration of activity reports
+
+![1](http://www.happiestminds.com/wp-content/uploads/2015/11/configuration-management.jpg)
+
+## Code Inspection & Continuous Integration
+Code Inception and Continuous Integration are the key elements of a development practice. Happiest Minds’ DevOps solutions help you carry out integrations and improve team productivity as a whole. Our offerings can help in providing:
+
+* Well-tested code
+* Improved code quality
+* Verified artifacts ready for deployment
+* High quality build and code reports
+
+![1](http://www.happiestminds.com/wp-content/uploads/2015/11/Code-Inspection-Integration.jpg)
+
+
+##Deployment Automation & Orchestration
+These days automating the deployment process has become a bare necessity. It not only makes companies more efficient and agile, but also cuts down on the production time and possible manual errors in configurations. As a part of our Deployment Automation  services we offer:
+
+* Automated, error-free, and faster deployment
+* Single click or continuous deployment
+* Single-tool deploying in all environments
+* Deployment metrics
+![1](http://www.happiestminds.com/wp-content/uploads/2015/11/deployment-automation.jpg)
+
+
+
+
 DevOps does not equal ‘Developers managing Production’
 I’ve had quite a few conversations, mainly with smaller start-ups or development houses, who tell me: “Yes, we work in a DevOps model.”
 
