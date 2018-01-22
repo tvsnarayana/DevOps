@@ -45,6 +45,9 @@ https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/09/1474959371devops
 # DevOps culture 
 
 
+https://dzone.com/articles/real-world-problems-solved-by-devops
+https://techbeacon.com/30-common-challenges-devops-how-resolve-them
+
 # Typical DevOps roles
 * Automated Build and Release
   * Though automated nightly builds and smoke tests have been done even in a classic software development environment, such efforts were custom and scripted. The availability of automation platforms such as Hudson and Jenkins standardized such processes. The lead time to deploy changes in production has been minimized as a result.
