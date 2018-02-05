@@ -49,7 +49,7 @@ https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/09/1474959371devops
 * **Authentication, Authorization, and Access Control OpenLDAP:** RSA Authentication, Radius Authentication, MFA (Multi-Factor Authentication)/Google Authenticator, Centrify/Powerbroker, SAML, OAuth
 * **Environment Build and Deployment:** Packer, PXE, Foreman, Red Hat Kickstart, Spacewalk, RedHat Satellite Service, Mrepo, Pulp
 * **Orchestration / Service Discovery:** Consul, Registrator, Consul Template, Shipyard, CloudFormation, Terraform
-* **Configuration Management / Automation: Puppet, Chef, SaltStack, Ansible, Beaker, TestKitchen, ServerSpec, Berkshelf, r10k
+* **Configuration Management / Automation:** Puppet, Chef, SaltStack, Ansible, Beaker, TestKitchen, ServerSpec, Berkshelf, r10k
 * **Big Data Operations:** Apache Hadoop, Cloudera, MapR, Hortonworks, Kafka, Storm, Oozie, Sqoop, Pig
 * **Operational Visibility (Service Health Monitoring, Capacity Planning, and Reporting):** Elasticsearch, Logstash, Kibana, Splunk, Graphite, Grafana, Cacti, SNMP, Diamond, CollectD, NRPE, Nagios, Sensu, CloudWatch
 * **Release Management:** GIT, SVN, Stash, GitLab, GitHub, BitBucket, Docker Registry Hub / Private Registry, Jenkins, Bamboo, TravisCI
