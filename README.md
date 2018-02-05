@@ -46,12 +46,12 @@ https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/09/1474959371devops
 # SPECIALIZATIONS
 * **Infrastructure:** Amazon Web Services, VMware, RackSpace, Microsoft Azure, KVM, Heroku, Amazon OpsWorks, Amazon ElasticBeanstalk, Docker, Vagrant
 * **Web / Application Architecture / Site Performance / Load Balancing:** Apache, NGINX, JBoss, Apache Tomcat, Rails, Node.js, DJango, PHP, Amazon CloudFront, Akamai, Amazon AutoScaling, Varnish Software, Memcached, Redis, Amazon ElastiCache, Red Hat Cluster Suite, F5 LTM (Local Traffic Manager) & GTM (Global Traffic Manager), Amazon Elastic Load Balancer, HAProxy
-Authentication, Authorization, and Access Control OpenLDAP:RSA Authentication, Radius Authentication, MFA (Multi-Factor Authentication)/Google Authenticator, Centrify/Powerbroker, SAML, OAuth
-Environment Build and Deployment:** Packer, PXE, Foreman, Red Hat Kickstart, Spacewalk, RedHat Satellite Service, Mrepo, Pulp
-Orchestration / Service Discovery:** Consul, Registrator, Consul Template, Shipyard, CloudFormation, Terraform
+* **Authentication, Authorization, and Access Control OpenLDAP:** RSA Authentication, Radius Authentication, MFA (Multi-Factor Authentication)/Google Authenticator, Centrify/Powerbroker, SAML, OAuth
+* **Environment Build and Deployment:** Packer, PXE, Foreman, Red Hat Kickstart, Spacewalk, RedHat Satellite Service, Mrepo, Pulp
+* **Orchestration / Service Discovery:** Consul, Registrator, Consul Template, Shipyard, CloudFormation, Terraform
 * **Configuration Management / Automation: Puppet, Chef, SaltStack, Ansible, Beaker, TestKitchen, ServerSpec, Berkshelf, r10k
 * **Big Data Operations:** Apache Hadoop, Cloudera, MapR, Hortonworks, Kafka, Storm, Oozie, Sqoop, Pig
-Operational Visibility (Service Health Monitoring, Capacity Planning, and Reporting): Elasticsearch, Logstash, Kibana, Splunk, Graphite, Grafana, Cacti, SNMP, Diamond, CollectD, NRPE, Nagios, Sensu, CloudWatch
+* **Operational Visibility (Service Health Monitoring, Capacity Planning, and Reporting):** Elasticsearch, Logstash, Kibana, Splunk, Graphite, Grafana, Cacti, SNMP, Diamond, CollectD, NRPE, Nagios, Sensu, CloudWatch
 * **Release Management:** GIT, SVN, Stash, GitLab, GitHub, BitBucket, Docker Registry Hub / Private Registry, Jenkins, Bamboo, TravisCI
 * **Message Queuing:** RabbitMQ, ZeroMQ, ActiveMQ, Amazon SQS,
 * **Storage:** NFS File Server, iSCSI, Fiber Channel, NAS / SAN, Netapp, 3par, EMC, Multipath / MPIO, device-mapper, PowerPath
