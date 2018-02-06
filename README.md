@@ -226,6 +226,118 @@ https://www.xenonstack.com/images/devops-tools.png
 https://www.xenonstack.com/blog/static/public/uploads/media/nexastack-the-ultimate-devops-platform.png
 
 
+# DevOps Transformation Services
+* Painless, End-To-End Cloud enabled Application Life Cycle Management
+* Integrated Cloud Management and Orchestration
+* DevOps as a Service
+* DevOps Automation
+* Automated Provisioning
+* Deployment Automation
+* Centralized Visibility
+* Service Visualization
+* Hybrid Process Framework
+* Continuous Integration & Continuous Deployment in highly agile environment
+* Automated Reporting and Dashboards
+* Infrastructure Management and Monitoring
+* Cloud Strategizing
+* Team Assessment
+* Security Management
+* Configuration Management
+Chef Assessment, Architecture & Consulting
+Automation Architecture Design
+Automated testing
+Chef Advance Training
+Managed DevOps & Chef implementation services
+Continuous Integration & Continuous delivery adoption
+
+• Build Automation 
+• Configuration Management 
+• Continuous Delivery/Rapid Deploy 
+• Functional Testing/Unit Testing/Test Driven Development 
+• Monitoring/Alerting 
+• Packages/Containers/Virtualization 
+• Release Coordination/Orchestration 
+
+
+
+
+# Continuous Release and Deployment
+• Technology selection and validation
+• Deployment design
+• Deployment automation
+• Configuration and release management
+# Continuous Testing
+• UI and integration test automation
+• Performance testing
+• Service virtualization
+• Test optimization
+# Continuous Monitoring
+• Infrastructure monitoring automation
+• Software Development Auditing
+• Service health dashboards delivery
+• APM tools integration
+# Continuous Feedback and Optimization
+• Service request and change management
+• Performance tuning
+• Incident tracking system & analysis tool development
+• High-availability & redundancy planning
+
+
+# DevOps Orchestration Services
+* Dev & Deploy Work Stream Automation and Visualization
+* Software Delivery Process Automation
+* Visual Monitoring of Development & Deployment Pipelines and Work Streams
+* Centralized Visibility, Governance and Control
+
+
+https://msystechnologies.com/wp-content/uploads/2017/08/deveops-img.png
+
+# Continuous Integration and Delivery Process
+https://msystechnologies.com/wp-content/uploads/2017/08/deve-automative.png
+
+
+http://www.karyatech.com/images/devops-img.png
+
+
+
+# OUR OFFERINGS
+## Infrastructure Management
+* Automated Provisioning
+* Bringing up Servers in Deploy State (SCR)
+* Server State Mismatch Elimination
+* Server Scaling up
+## Code Inspection & Continuous Integration
+* Well-tested Code
+* Verified Artifacts Ready for Deployment
+* Improved Code Quality
+* High quality Build and Code Reports
+## Environment Management
+* Configuration Mismatch Elimination
+* Automated, Error-Free, Faster Configuration Deployment
+* Single Tool Management
+* Activity Reports Configuration
+## Deployment Automation & Orchestration
+* Automated, Error-Free, and Faster Deployment
+* Single-Tool Deployment
+* Single Click or Continuous Deployment
+* Deployment Metrics
+
+
+http://www.nexiilabs.com/img/devops/devops-tools.jpg
+
+
+![1](https://mobisoftinfotech.com/assets/images/devops/web_performance_matters.png)
+
+https://image.slidesharecdn.com/buildingadevopsorganization-150825132107-lva1-app6892/95/building-a-devops-organization-18-638.jpg
+
+
+
+https://image.slidesharecdn.com/buildingadevopsorganization-150825132107-lva1-app6892/95/building-a-devops-organization-21-638.jpg
+
+
+
+
+
 1. Source Code Management (SCM) System
   * GitHub 
 2. Build and Continuous Integration(CI)
