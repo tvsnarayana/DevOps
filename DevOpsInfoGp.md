@@ -6,7 +6,11 @@ https://mobisoftinfotech.com/assets/images/devops/web_performance_matters.png
 https://images.techhive.com/images/article/2015/01/01-01ss-devops-tools-100539589-gallery.idge.jpg
 ![1](http://www.testhouse.net/wp-content/uploads/2016/08/MRDevOpsFrame1.jpg)
 ![1](http://www.testhouse.net/wp-content/uploads/2016/08/MRDevOpsPractices2.jpg)
-
+![1](http://d1xxd9frrkuwtd.cloudfront.net/wp-content/uploads/2016/06/AxiomIO-devops-diagram.jpg)
+![1](https://dwixurqketmvw.cloudfront.net/images/DevOps.png)
+![1](http://pantarsolutions.com/wp-content/uploads/2017/06/slide-2.png)
+![1](http://pantarsolutions.com/wp-content/uploads/2017/06/Devops-slide-1.png)
+![1](https://dwixurqketmvw.cloudfront.net/images/devops-tools.png)
 ![VMs VS Containers](http://www.jayway.com/wp-content/uploads/2015/03/vm-vs-docker.png)
 ![VMs VS Containers](http://www.jayway.com/wp-content/uploads/2015/03/vm-vs-docker-table.png)
 ![Containers](http://www.jayway.com/wp-content/uploads/2015/03/docker-image.png)
