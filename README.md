@@ -1,5 +1,8 @@
 # DevOps
 
+# overview
+https://www.slideshare.net/gauravslide/transform-agile-development-with-practical-devops-86846081
+
 There are lots of tools of technologies comes under DevOPS Practice. But majorly devops focused on these 7 key aspects
 * Code — Code development and review, version control tools, code merging.
 * Build — Continuous integration tools, build status.
