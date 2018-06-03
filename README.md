@@ -764,3 +764,4 @@ https://dzone.com/articles/ab-testing-and-web-performance
 ![1](https://cdinsight.files.wordpress.com/2015/07/fit-quality-in-cd-pipeline.jpg)
 # DevOps Roadmap
 ![1](https://camo.githubusercontent.com/bdc81def398a0d13b70066783021b789e922fb91/68747470733a2f2f692e696d6775722e636f6d2f6c324b4e4859492e706e67)
+![1](https://9b74456f2e4bcbc20970-51751c7e8fb38e7c8b474cab6c7dc602.ssl.cf5.rackcdn.com/2018-05/DevOps%20R5%20blueprint_0.png)
