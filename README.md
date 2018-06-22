@@ -3,7 +3,7 @@
 # overview
 
 ![1](http://blogs.bmc.com/wp-content/uploads/2017/06/ci-vs-cd-devops-difference.jpg)
-
+![1](https://www.comakeit.com/blog/wp-content/uploads/2017/11/software-value-chain-critical-differences.jpg)
 
 https://www.slideshare.net/gauravslide/transform-agile-development-with-practical-devops-86846081
 
