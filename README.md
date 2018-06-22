@@ -62,6 +62,18 @@ https://dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/09/1474959371devops
 * **ITIL Service Operations (Incident, Problem, and Event Management):** Design and implement change control solutions, Design and implement disaster recovery solutions, Design and implement business continuity solutions, Root-cause analysis investigation, Linux Kernel performance troubleshooting and tuning, Application performance troubleshooting and tuning
 * **Backup and Recovery:** Tivoli – TSM, HP DataProtector, Bacula, NetBackup, BackupExec, Rsync-based solutions
 
+# Continuous.*
+For those of you not up to speed with this industry trend, here is a brief overview of this new terminology:
+
+* **Continuous integration:** The practice of merging all developer working copies to a shared mainline several times a day
+* **Continuous delivery:** The evolution of continuous integration by always being able to put a product into production
+* **Continuous deployment:** Taking continuous integration and continuous delivery for automatic deployment to production
+* **Continuous development:** The umbrella term of continuous integration, continuous delivery, and continuous deployment
+* **Continuous testing:** The process of executing automated tests as part of the software delivery pipeline in order to gain feedback on business risks with a software release candidate as rapidly as possible
+* **Test automation:** Designed to produce a set of pass/fail data points correlated to user stories and application requirements
+* **DevOps:** The software engineering practice that aims at unifying software development (Dev) and software operation (Ops)
+
+
 
 # DevOps culture 
 
