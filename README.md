@@ -1,6 +1,10 @@
 # DevOps
 
 # overview
+
+![1](http://blogs.bmc.com/wp-content/uploads/2017/06/ci-vs-cd-devops-difference.jpg)
+
+
 https://www.slideshare.net/gauravslide/transform-agile-development-with-practical-devops-86846081
 
 There are lots of tools of technologies comes under DevOPS Practice. But majorly devops focused on these 7 key aspects
