@@ -78,6 +78,8 @@ For those of you not up to speed with this industry trend, here is a brief overv
 * **DevOps:** The software engineering practice that aims at unifying software development (Dev) and software operation (Ops)
 
 
+# DevOps Tools
+https://xebialabs.com/periodic-table-of-devops-tools/
 
 # DevOps culture 
 
