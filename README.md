@@ -1,6 +1,23 @@
 # DevOps
 
+# Open SOurce COurse
+https://github.com/DevOpsBasicSetup/Phase-1-Discussions
+
 # overview
+
+In many ways, culture can be one of the hardest things to change, but it can be done. To that end, here are ten simple steps any organisation can take to manage cultural change when implementing DevOps:
+
+* **Make sure the very highest levels of your organisation are ready to commit to the DevOps philosophy.** DevOps will not succeed if introduced from the bottom-up. There are too many processes that need to change that will require sign-off from management.
+* **At the same time, the DevOps team needs a free hand in defining their roles and responsibilities.** At first, they may define their roles in familiar ways based on old patterns, but as they get more experienced in the ways of DevOps, they will naturally evolve.
+* **Bring in an external coach to educate DevOps team.** They will help the team demolish walls and become a single team. Coaches have the experience to know what is and isn’t possible and how best to move forward. Do not make one of your line managers a coach, as there may too much of a bias/baggage that they may bring to the team.
+* **Even if you start with just a pilot team make sure you start to educate the rest of the teams.**  Communicate the benefits and the new processes. The pilot team will need help from time to time and if other teams understand the transformation they are more likely to provide that help.
+* **Give your DevOps team the freedom to fail.** Hold them accountable for their own actions. The more they fail the more resilient they will be. If they don’t have the responsibility, they won’t take ownership. This means eliminating management-run post-mortems where the team becomes defensive and risk-averse. Your mantra should be “fail fast.”
+* **Help the DevOps team to break down their silos.** It takes a while to break the silo mentality.  Help them understand that it doesn’t matter if you are dev, ops or security, your goal is still to match speed with quality.
+* **Co-locate the teams as much as possible.** When this happens, the team members will help each other. It will help them to mature and function as one team much quicker. Train the teams in automating their process.
+* **Leaders should talk to the teams often to see what’s required for success** – communication has to go both ways. This should be a collaboration, otherwise simple issues become roadblocks.
+* **DevOps is by definition a lean, flat organisation.** Don’t expect or require all the good ideas to come from leadership. Good ideas can come from anywhere, from anyone, at any time.
+* **The upper echelons of the organisation should lead by example.** Break down silos, collaborate, speed up decision-making processes. All of this can inspire your DevOps team in what can be a difficult transition.
+
 
 ![1](http://blogs.bmc.com/wp-content/uploads/2017/06/ci-vs-cd-devops-difference.jpg)
 ![1](https://www.comakeit.com/blog/wp-content/uploads/2017/11/software-value-chain-critical-differences.jpg)
