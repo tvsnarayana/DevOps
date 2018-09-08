@@ -18,6 +18,7 @@ In many ways, culture can be one of the hardest things to change, but it can be 
 * **DevOps is by definition a lean, flat organisation.** Don’t expect or require all the good ideas to come from leadership. Good ideas can come from anywhere, from anyone, at any time.
 * **The upper echelons of the organisation should lead by example.** Break down silos, collaborate, speed up decision-making processes. All of this can inspire your DevOps team in what can be a difficult transition.
 
+![1](https://4.bp.blogspot.com/-jsJKYrnLTiQ/WNxx5KJxqOI/AAAAAAAADwk/DeeJRZyzeCYJXxqmrv06BFEBPOk9akeKgCLcB/s1600/devopspatternsandpractices.png)
 
 ![1](http://blogs.bmc.com/wp-content/uploads/2017/06/ci-vs-cd-devops-difference.jpg)
 ![1](https://www.comakeit.com/blog/wp-content/uploads/2017/11/software-value-chain-critical-differences.jpg)
